@@ -160,7 +160,6 @@
   #wrapper {
     margin: 4rem auto;
     max-width: 37.5rem;
-    height: 100%;
     border-radius: 0.875rem;
     border: 10px solid var(--Slate, #332E38);
     background: var(--Sand, #FFDAB3);
